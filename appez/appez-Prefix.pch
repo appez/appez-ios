@@ -1,0 +1,19 @@
+//
+//  appez-Prefix.pch
+//  appez
+//
+//  Created by Transility on 03/03/16.
+//
+//
+
+//
+// Prefix header for all source files of the 'appez' target in the 'appez' project
+//
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "AppEvents.h"
+#import "AppUtils.h"
+
+#endif

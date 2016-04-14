@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>appez.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>appezResources.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>appezUniversal.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>DAA349701C886C6500381499</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DAA3497B1C886C6500381499</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DAA34ADE1C887C5400381499</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DAA34B8D1C8D840600381499</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
