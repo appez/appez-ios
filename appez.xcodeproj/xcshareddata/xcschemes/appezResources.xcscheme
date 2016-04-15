@@ -14,37 +14,40 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DAA34B8D1C8D840600381499"
-               BuildableName = "appezUniversal"
-               BlueprintName = "appezUniversal"
+               BlueprintIdentifier = "DAA34ADE1C887C5400381499"
+               BuildableName = "appezResources.bundle"
+               BlueprintName = "appezResources"
                ReferencedContainer = "container:appez.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES"
-      buildConfiguration = "Debug">
+      shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <AdditionalOptions>
+      </AdditionalOptions>
    </TestAction>
    <LaunchAction
+      buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Release"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DAA34B8D1C8D840600381499"
-            BuildableName = "appezUniversal"
-            BlueprintName = "appezUniversal"
+            BlueprintIdentifier = "DAA34ADE1C887C5400381499"
+            BuildableName = "appezResources.bundle"
+            BlueprintName = "appezResources"
             ReferencedContainer = "container:appez.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -52,17 +55,17 @@
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
+      buildConfiguration = "Release"
       shouldUseLaunchSchemeArgsEnv = "YES"
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DAA34B8D1C8D840600381499"
-            BuildableName = "appezUniversal"
-            BlueprintName = "appezUniversal"
+            BlueprintIdentifier = "DAA34ADE1C887C5400381499"
+            BuildableName = "appezResources.bundle"
+            BlueprintName = "appezResources"
             ReferencedContainer = "container:appez.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

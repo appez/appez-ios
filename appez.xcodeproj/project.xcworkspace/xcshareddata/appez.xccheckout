@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F8B3460F-CEE1-41CB-9F57-780EEF257186</string>
+	<key>IDESourceControlProjectName</key>
+	<string>appez</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8D1BE07609D7905AA02937548DE1B9F39993B79C</key>
+		<string>https://github.com/appez/appez-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>appez.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8D1BE07609D7905AA02937548DE1B9F39993B79C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/appez/appez-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8D1BE07609D7905AA02937548DE1B9F39993B79C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8D1BE07609D7905AA02937548DE1B9F39993B79C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>APPEZ_GIT_OPEN_SRC</string>
+		</dict>
+	</array>
+</dict>
+</plist>
