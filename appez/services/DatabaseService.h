@@ -19,7 +19,7 @@
 #import "SqliteUtility.h"
 #import "CommMessageConstants.h"
 #import "ExceptionTypes.h"
-
+/**Data Base service With Smart Service Delegate*/
 @interface DatabaseService : SmartService
 {
     SmartEvent *smartEvent;
